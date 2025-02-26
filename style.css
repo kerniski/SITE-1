@@ -34,7 +34,7 @@ section {
     border-radius: 80px;
     width: 100%;
     height: 606px;
-    padding: 4px;
+    padding: 40px;
     margin: 0 auto;
 }
 
@@ -136,4 +136,8 @@ h2 {
 
 .form-control {
     background-color: #F1EDEF;
+}
+.nav-img{
+    width:60px ;
+    height:65px ;
 }
