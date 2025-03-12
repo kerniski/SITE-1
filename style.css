@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+.cabecalho{
+    background-color: #245787;
+    width: 100%;
+}
+.topicos{
+    color: rgb(246, 241, 241);
+    font-size: 24px;
+}
+.titulo{
+    color: black;
+    font-size: 32px;
+    font-family: Emblema One;
+}
