@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
-
+:root{
+    background-color: blueviolet;
+}
 .cabecalho{
-    background-color: #245787;
+    background-color: #0c05df;
     width: 100%;
 }
 .botao{
@@ -12,4 +14,18 @@
     color: black;
     font-size: 32px;
     font-family: Emblema One;
+    text-align: center;
+}
+.h2{
+    font-family: Emblema One;
+    font-size: 29px;
+    color: aliceblue;
+
+}
+.texto-inicial{
+    font-size: 24px;
+    color: aliceblue;
+}
+.texto-fonte{
+    font-size: 18px;
 }
