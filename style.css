@@ -29,3 +29,7 @@
 .texto-fonte{
     font-size: 18px;
 }
+.primeira-linha{
+    display: grid;
+grid-column: 30%, 30%, 30%;
+}
