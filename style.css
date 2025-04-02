@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
 :root{
-    background-color: rgb(21, 126, 218);
+    background-color: rgb(0, 0, 0);
 }
 .cabecalho{
 
@@ -11,7 +11,7 @@
     font-size: 24px;
 }
 .titulo{
-    color: black;
+    color: rgb(227, 21, 21);
     font-size: 32px;
     font-family: Emblema One;
     text-align: center;
