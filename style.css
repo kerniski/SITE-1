@@ -31,7 +31,28 @@
 }
 .foto{
     width: 30%;
+    border-radius: 10px;
+    height: 500px;
 }
-.topicos{
+.texto-descricao{
+    font-size: 24px;
+    display: inline-block;
+}
+.foto-explorar{
+    text-align: left;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+}
+.destino{
+    display: flex;
+    align-items: center;
+}
+.ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+}
+topicos{
     text-decoration: none;
 }
