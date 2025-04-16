@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
 :root{
-    background-color: rgb(224, 164, 81);
+    background-color: #f59e23;
 }
 .cabecalho{
 
@@ -61,9 +61,9 @@ topicos{
 .botao-link{
 text-decoration:  none;
 display: flex;
-color: rgb(134, 165, 42);
+color: rgb(0, 0, 0);
 font-size: 24px;
 padding-left: 2em;
 padding-right: 2em;
-background-color: rgba(243, 178, 56, 0.593);
+background-color: rgb(255, 166, 0);
 }
