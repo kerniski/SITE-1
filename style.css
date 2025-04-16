@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
 :root{
-    background-color: blue;
+    background-color: rgb(124, 124, 124);
 }
 .cabecalho{
 
@@ -65,5 +65,5 @@ color: rgb(0, 0, 0);
 font-size: 24px;
 padding-left: 2em;
 padding-right: 2em;
-background-color: blue;
+background-color: rgb(131, 131, 131);
 }
