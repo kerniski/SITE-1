@@ -58,3 +58,12 @@ topicos{
     list-style-type: none;
     display: flex;
 }
+.botao-link{
+text-decoration:  none;
+display: flex;
+color: rgb(134, 165, 42);
+font-size: 24px;
+padding-left: 2em;
+padding-right: 2em;
+background-color: rgb(7, 195, 29);
+}
